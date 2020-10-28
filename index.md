@@ -2,14 +2,14 @@
 | E-mail: nurlanua@myumanitoba.ca
 
 ## Skills
-* Excellent customer service skills , displayed in a retail department store and fine dining restaurant.
+> * Excellent customer service skills , displayed in a retail department store and fine dining restaurant.
 * Fluent in English, Russian, and Kyrgyz.
 * Confidently engage with customers from different cultural backgrounds.
 * A strong work ethic , demonstrated through my night shift employment with newspaper delivery, taking initiative with tasks in my retail sales position. 
 * Hard work and professionalism as a landscape technician.
-
+>
 ## Experience
-#### Gas Bar Attendant   
+> #### Gas Bar Attendant   
 September 2018 - Present    
 Shell / Safeway Gas Bar, Winnipeg  
 * Process sales transactions, using Shell and Safeway point of sale systems.
@@ -34,9 +34,9 @@ Winners, Winnipeg
 * Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
 * Maintain the store inventory, such as keeping shelf displays tidy and clothing items organized.
 * Team player, such as assisting fitting room staff, and picking up extra shifts when needed.
-
+>
 ## Education
-
+>
 Computer Science September 2017 – Present  
 University of Manitoba
 
@@ -45,4 +45,4 @@ Grant Park High School, Winnipeg
 
 High School Diploma June 2015  
 Bishkek Kyrgyz-Turk Lyceum, Bishkek, Kyrgyzstan
-
+>
