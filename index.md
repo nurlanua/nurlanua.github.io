@@ -2,12 +2,12 @@
 | E-mail: nurlanua@myumanitoba.ca
 
 ## Skills
-> * Excellent customer service skills , displayed in a retail department store and fine dining restaurant.
-* Fluent in English, Russian, and Kyrgyz.
-* Confidently engage with customers from different cultural backgrounds.
-* A strong work ethic , demonstrated through my night shift employment with newspaper delivery, taking initiative with tasks in my retail sales position. 
-* Hard work and professionalism as a landscape technician.
->
+>* Excellent customer service skills , displayed in a retail department store and fine dining restaurant.
+>* Fluent in English, Russian, and Kyrgyz.
+>* Confidently engage with customers from different cultural backgrounds.
+>* A strong work ethic , demonstrated through my night shift employment with newspaper delivery, taking initiative with tasks in my retail sales position. 
+>* Hard work and professionalism as a landscape technician.
+
 ## Experience
 > #### Gas Bar Attendant   
 September 2018 - Present    
