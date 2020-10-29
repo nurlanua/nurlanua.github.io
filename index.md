@@ -9,34 +9,34 @@
 >* Hard work and professionalism as a landscape technician.
 
 ## Experience
-> #### Gas Bar Attendant     
+ #### Gas Bar Attendant     
 Shell / Safeway Gas Bar, Winnipeg  
 September 2018 - Present  
-* Process sales transactions, using Shell and Safeway point of sale systems.
-* Experience with cash handling, debit/credit card machine, refunds, and gift cards.
-* Maintain merchandise, such as keeping products up to date and restocking when needed.
-* Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
+>* Process sales transactions, using Shell and Safeway point of sale systems.
+>* Experience with cash handling, debit/credit card machine, refunds, and gift cards.
+>* Maintain merchandise, such as keeping products up to date and restocking when needed.
+>* Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
 
 #### Landscape Technician    
-Alladins Landscape Design, Winnipeg  
+Alladins Landscape Design, Winnipeg    
 June 2017 - August 2018 
-* Responsible to inspect all equipment, vehicles and trailers for any malfunctions.
-* Knowledge of operating lawn mowers, string trimmers and various hand tools.
-* Strength and Endurance developed through working 8-10 hours per day.
-* Drive a truck with a trailer inside city.
+>* Responsible to inspect all equipment, vehicles and trailers for any malfunctions.
+>* Knowledge of operating lawn mowers, string trimmers and various hand tools.
+>* Strength and Endurance developed through working 8-10 hours per day.
+>* Drive a truck with a trailer inside city.
 
 
 #### Retail Sales Associate/ Cashier   
-Winners, Winnipeg 
+Winners, Winnipeg   
 April – October 2016 
-* Process retail sales transactions, using Winner’s point of sale system.
-* Experience with cash handling, debit/credit card machine, refunds, and gift cards.
-* Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
-* Maintain the store inventory, such as keeping shelf displays tidy and clothing items organized.
-* Team player, such as assisting fitting room staff, and picking up extra shifts when needed.
->
+>* Process retail sales transactions, using Winner’s point of sale system.
+>* Experience with cash handling, debit/credit card machine, refunds, and gift cards.
+>* Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
+>* Maintain the store inventory, such as keeping shelf displays tidy and clothing items organized.
+>* Team player, such as assisting fitting room staff, and picking up extra shifts when needed.
+
 ## Education
->
+
 Computer Science September 2017 – Present  
 University of Manitoba
 
@@ -45,4 +45,4 @@ Grant Park High School, Winnipeg
 
 High School Diploma June 2015  
 Bishkek Kyrgyz-Turk Lyceum, Bishkek, Kyrgyzstan
->
+
