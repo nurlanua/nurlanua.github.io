@@ -9,26 +9,26 @@
 >* Hard work and professionalism as a landscape technician.
 
 ## Experience
-> #### Gas Bar Attendant   
-September 2018 - Present    
+> #### Gas Bar Attendant     
 Shell / Safeway Gas Bar, Winnipeg  
+September 2018 - Present  
 * Process sales transactions, using Shell and Safeway point of sale systems.
 * Experience with cash handling, debit/credit card machine, refunds, and gift cards.
 * Maintain merchandise, such as keeping products up to date and restocking when needed.
 * Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
 
-#### Landscape Technician   
-June 2017 - August 2018  
+#### Landscape Technician    
 Alladins Landscape Design, Winnipeg  
+June 2017 - August 2018 
 * Responsible to inspect all equipment, vehicles and trailers for any malfunctions.
 * Knowledge of operating lawn mowers, string trimmers and various hand tools.
 * Strength and Endurance developed through working 8-10 hours per day.
 * Drive a truck with a trailer inside city.
 
 
-#### Retail Sales Associate/ Cashier  
-April – October 2016  
-Winners, Winnipeg  
+#### Retail Sales Associate/ Cashier   
+Winners, Winnipeg 
+April – October 2016 
 * Process retail sales transactions, using Winner’s point of sale system.
 * Experience with cash handling, debit/credit card machine, refunds, and gift cards.
 * Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
