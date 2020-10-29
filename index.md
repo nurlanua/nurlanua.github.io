@@ -10,7 +10,7 @@
 
 ## Experience
 #### Gas Bar Attendant     
-Shell / Safeway Gas Bar, Winnipeg                                      
+Shell / Safeway Gas Bar, Winnipeg
 <div style="text-align: right"> September 2018 - Present </div>  
 * Process sales transactions, using Shell and Safeway point of sale systems.
 * Experience with cash handling, debit/credit card machine, refunds, and gift cards.
@@ -18,7 +18,8 @@ Shell / Safeway Gas Bar, Winnipeg
 * Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
 
 #### Landscape Technician    
-Alladins Landscape Design, Winnipeg                                    June 2017 - August 2018 
+Alladins Landscape Design, Winnipeg
+<div style="text-allign: right">June 2017 - August 2018</div> 
 * Responsible to inspect all equipment, vehicles and trailers for any malfunctions.
 * Knowledge of operating lawn mowers, string trimmers and various hand tools.
 * Strength and Endurance developed through working 8-10 hours per day.
@@ -26,7 +27,8 @@ Alladins Landscape Design, Winnipeg                                    June 2017
 
 
 #### Retail Sales Associate/ Cashier   
-Winners, Winnipeg                                                      April – October 2016 
+Winners, Winnipeg
+<div style="text-allign: right">April – October 2016</div> 
 * Process retail sales transactions, using Winner’s point of sale system.
 * Experience with cash handling, debit/credit card machine, refunds, and gift cards.
 * Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
