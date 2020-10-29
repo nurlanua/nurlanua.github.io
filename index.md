@@ -10,7 +10,8 @@
 
 ## Experience
 #### Gas Bar Attendant     
-Shell / Safeway Gas Bar, Winnipeg                                      September 2018 - Present  
+Shell / Safeway Gas Bar, Winnipeg                                      
+<div style="text-align: right"> September 2018 - Present </div>  
 * Process sales transactions, using Shell and Safeway point of sale systems.
 * Experience with cash handling, debit/credit card machine, refunds, and gift cards.
 * Maintain merchandise, such as keeping products up to date and restocking when needed.
