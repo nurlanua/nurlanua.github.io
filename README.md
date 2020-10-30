@@ -1,6 +1,6 @@
-# APPLYING ETTER’S MODERN TECHNICAL WRITING PRINCIPLES TO HOST AN ONLINE RESUME AND README
+# How to host online Resume?
 
-This guide shows how to host an online resume on github, using jekyll themes
+This guide shows how to host an online resume on github, using simple jekyll themes
 
 ## Summary
 
@@ -13,6 +13,30 @@ This guide shows how to host an online resume on github, using jekyll themes
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
+  
+  
+### Prerequisites
+
+  - [GitHub](#what-is-github-?)
+  - [Markdown](#what-is-markdown-?)
+  - [Jekyll](#what-is-jekyll-?)
+
+## What is GitHub?
+
+GitHub is a platform for software developers to share the code and get help from other users. 
+It lets you and teams to collaborate efficiantly from everywhere around the world.
+GitHub also allows users to create their own websites for no additional costs.  
+
+## What is Markdown?
+
+Markdown is a text editing lightweight markup language. 
+It is usually used to create README documents for online forums.
+You can think of it as a lighter version of HTML. 
+
+## What is Jekyll?
+
+Jekyll is a generator that allows you to style your website.
+You can think of it as a CSS.
 
 ## Getting Started
 
@@ -20,11 +44,6 @@ These instructions will get you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
 for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-    Give examples
 
 ### Installing
 
