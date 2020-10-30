@@ -1,11 +1,11 @@
-# How to host online Resume?
+# How to host an online Resume?
 
-This guide shows how to host an online resume on github, using simple jekyll themes
+This guide shows how to host an online resume on GitHub, using simple Jekyll themes
 
 ## Summary
 
   - [Getting Started](#getting-started)
-  - [Runing the tests](#running-the-tests)
+  - [Running the tests](#running-the-tests)
   - [Deployment](#deployment)
   - [Built With](#built-with)
   - [Contributing](#contributing)
@@ -24,8 +24,8 @@ This guide shows how to host an online resume on github, using simple jekyll the
 ## What is GitHub?
 
 GitHub is a platform for software developers to share the code and get help from other users. 
-It lets you and teams to collaborate efficiantly from everywhere around the world.
-GitHub also allows users to create their own websites for no additional costs.  
+It lets you and teams collaborate efficiently from everywhere around the world.
+GitHub also allows users to create their static websites for no additional costs.  
 
 ## What is Markdown?
 
@@ -40,9 +40,9 @@ You can think of it as a CSS.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on how to deploy the project on a live system.
+These instructions will let you host your resume on GitHub using Jekyll and Markdown.
+  1. Create an account on GitHub
+    * 
 
 
 ### Installing
