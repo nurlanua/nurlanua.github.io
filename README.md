@@ -17,9 +17,9 @@ This guide shows how to host an online resume on github, using simple jekyll the
   
 ### Prerequisites
 
-  - [GitHub](#what-is-github-?)
-  - [Markdown](#what-is-markdown-?)
-  - [Jekyll](#what-is-jekyll-?)
+  - [GitHub](#what-is-github?)
+  - [Markdown](#what-is-markdown?)
+  - [Jekyll](#what-is-jekyll?)
 
 ## What is GitHub?
 
