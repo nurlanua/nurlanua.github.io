@@ -5,17 +5,12 @@ This guide shows how to host an online resume on GitHub, using simple Jekyll the
 ## Summary
 
   - [Getting Started](#getting-started)
-  - [Running the tests](#running-the-tests)
-  - [Deployment](#deployment)
-  - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
   
   
-### Prerequisites
+## Prerequisites
 
   - [GitHub](#what-is-github)
   - [Markdown](#what-is-markdown)
@@ -44,9 +39,7 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
   1. Create an account on [GitHub](https://github.com)  
       ![create.gif](img/sign_up.gif)
   2. Create a repository named [your_account].gitgub.io
-  3. Add a file named _config.yml
-  4. Add a file named README.md
-  5. Add a file named index.md
+
 
 
 ### Installing
