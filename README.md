@@ -21,30 +21,33 @@ This guide shows how to host an online resume on GitHub, using simple Jekyll the
 GitHub is a platform for software developers to share the code and get help from other users. 
 It lets you and teams collaborate efficiently from everywhere around the world.
 GitHub also allows users to create their static websites for no additional costs.  
+To get started with the GitHub, you will need to complete a [GitHub tutorial](https://guides.github.com/activities/hello-world/)
 
 ## What is Markdown?
 
 Markdown is a text editing lightweight markup language. 
 It is usually used to create README documents for online forums.
-You can think of it as a lighter version of HTML. 
+You can think of it as a lighter version of HTML.  
+To get started with the Markdown, you will need to complete a [Markdown tutorial](https://www.markdowntutorial.com)  
+To implement markdown with GitHub you might need to review [GitHub tutorial](https://www.markdowntutorial.com) on Markdown
+
 
 ## What is Jekyll?
 
 Jekyll is a generator that allows you to style your website.
-You can think of it as a CSS.
+You can think of it as a CSS.  
+You do not have to know Jekyll for this type of example. You just need to know what type of Jekyll themes are supported by GitHub. More on this later.
 
 ## Getting Started
 
 These instructions will let you host your resume on GitHub using Jekyll and Markdown.
-  ### 1. Create an account on [GitHub](https://github.com)     
-  ![create.gif](img/sign_up.gif)
-      </br>
-      </br>
+  #### 1. Create an account on [GitHub](https://github.com)     
       
-  ### 2. Create a repository named [your_account].gitgub.io and add README.md, index.md, _config.yml
-  ![repository gif](img/repos.gif)
+  #### 2. Create a repository named [your_account].gitgub.io 
 
-
+  #### 3. Add README.md, index.md, _config.yml
+   
+  - README.md is used as  
 
 ### Installing
 
