@@ -36,9 +36,12 @@ You can think of it as a CSS.
 ## Getting Started
 
 These instructions will let you host your resume on GitHub using Jekyll and Markdown.
-  1. Create an account on [GitHub](https://github.com)  
+   ### 1. Create an account on [GitHub](https://github.com)  
       ![create.gif](img/sign_up.gif)
-  2. Create a repository named [your_account].gitgub.io and add README.md, index.md, _config.yml
+      
+      
+      
+  ### 2. Create a repository named [your_account].gitgub.io and add README.md, index.md, _config.yml
       ![repository gif](img/repos.gif)
 
 
