@@ -21,15 +21,15 @@ This guide shows how to host an online resume on GitHub, using simple Jekyll the
 GitHub is a platform for software developers to share the code and get help from other users. 
 It lets you and teams collaborate efficiently from everywhere around the world.
 GitHub also allows users to create their static websites for no additional costs.  
-To get started with the GitHub, you will need to complete a [GitHub tutorial](https://guides.github.com/activities/hello-world/)
+To get started with the GitHub, you will need to complete a [GitHub tutorial](https://guides.github.com/activities/hello-world/).
 
 ## What is Markdown?
 
 Markdown is a text editing lightweight markup language. 
 It is usually used to create README documents for online forums.
 You can think of it as a lighter version of HTML.  
-To get started with the Markdown, you will need to complete a [Markdown tutorial](https://www.markdowntutorial.com)  
-To implement markdown with GitHub you might need to review [GitHub tutorial](https://www.markdowntutorial.com) on Markdown
+To get started with the Markdown, you will need to complete a [Markdown tutorial](https://www.markdowntutorial.com).  
+To implement markdown with GitHub you might need to review [GitHub tutorial](https://www.markdowntutorial.com) on Markdown.
 
 
 ## What is Jekyll?
@@ -45,9 +45,11 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
       
   #### 2. Create a repository named [your_account].gitgub.io 
 
-  #### 3. Add README.md, index.md, _config.yml
+  #### 3. Add README.md, index.md, \_config.yml
    
-  - README.md is used as  
+  - README.md is usually used to explain what other files do, how they are used, and why do we need them.
+  - index.md is usually dispalayed on your static website. In this case we are displaying our resume profile.
+  - \_config.io is used to set up a Jekyll theme of your static website. You can choose any theme from [Supported themes](https://pages.github.com/themes/).
 
 ### Installing
 
