@@ -48,7 +48,6 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
   #### 3. Add README.md, index.md, \_config.yml
    
   - **README.md**  
-  </br>
       README.md is usually used to explain what other files do, how they are used, and why do we need them. In this case, we can write cover letter, explain what our skills are in more details, show some projects that we have made, and many more that are relevant to the position you are applying for.  
       </br>
       I want to teach you Andrew Etter's principles on technical writing. 
