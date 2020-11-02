@@ -29,7 +29,7 @@ Markdown is a text editing lightweight markup language.
 It is usually used to create README documents for online forums.
 You can think of it as a lighter version of HTML.  
 To get started with the Markdown, you will need to complete a [Markdown tutorial](https://www.markdowntutorial.com).  
-To implement markdown with GitHub you might need to review the [GitHub tutorial](https://www.markdowntutorial.com) on Markdown.
+To implement markdown with GitHub you might need to review the [GitHub tutorial](https://guides.github.com/features/mastering-markdown/) on Markdown.
 
 
 ## What is Jekyll?
