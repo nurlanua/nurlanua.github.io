@@ -48,20 +48,29 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
   #### 3. Add README.md, index.md, \_config.yml
    
   - **README.md**  
+  </br>
       README.md is usually used to explain what other files do, how they are used, and why do we need them. In this case, we can write cover letter, explain what our skills are in more details, show some projects that we have made, and many more that are relevant to the position you are applying for.  
       </br>
-      I want to teach you Andrew Etter's principles on technical writing.  
+      I want to teach you Andrew Etter's principles on technical writing. 
+      </br>
           1 **Research**: Research about what you need to write about. Look at other's examples of cover letter. Surf the internet. Write down key points that you want to include.    
+          </br>
           2 **Write**: Start with writing everything down for a draft. Read everything through and think "Does Employer need to know this information?", "How would that information help you get the job?", "Is it too wordy?".  
+          </br>
           3 **Design**: Use tools to make your reading easy to follow. Use some .gif to make your instructions more clear. Provide some visuals to lessen the amount of words.  
+          </br>
           4 **Read**: Read through your document many times over. Show it to your friends and see if they can understand your README.md file.  
+          </br>
           5 **Pull requasts**: Try getting insight from other users.   
           </br>
       I am not going over the last point, because if you do, you will be sharing your private information to other people. Be careful with what you are sharing, because people might use it against you.   
       </br>
   - **index.md**   
+  </br>
   index.md is usually displayed on your static website. In this case, we are displaying our resume profile.
-  - \_config.io is used to set up a Jekyll theme of your static website. You can choose any theme from [Supported themes](https://pages.github.com/themes/).
+  - **\_config.io**
+    </br>
+    \_config.io is used to set up a Jekyll theme of your static website. You can choose any theme from [Supported themes](https://pages.github.com/themes/).
 
 ### Installing
 
