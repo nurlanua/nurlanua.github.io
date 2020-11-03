@@ -64,14 +64,14 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
       </br>
   - **index.md**   
   index.md is usually displayed on your static website. In this case, we are displaying our resume profile. We follow the same steps that we followed in README.md.   
-  1. Research about job. Find out job descriptions. Look for resume applicatons for the same type of job.  
-  2. Start writing. Write all relevent skills the job posting is looking for.  
+  1. Research about the job. Find out job descriptions. Look for resume applications for the same type of job.  
+  2. Start writing. Write all relevant skills the job posting is looking for.  
   3. Design. Put your skills first, your experience second, and education third.
-  4. Get some advice. Show it to your friends, relatives, or coworkes. Run it through Gramarly or other syntax checking machines.  
+  4. Get some advice. Show it to your friends, relatives, or coworkers. Run it through Grammarly or other syntax checking machines.  
   
   - **\_config.io**  
     \_config.io is used to set up a Jekyll theme of your static website. You can choose any theme from [Supported themes](https://pages.github.com/themes/).  
-    To use any of the themes, you can read their README.md files. You can usually make it work with a single line in \_config.yml file. 
+    To use any of the themes, you can read their README.md files. You can usually make it work with a single line in the \_config.yml file. 
     
     ![demonstration](img/show.gif)
 
@@ -96,7 +96,9 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
     * Theo Gerwing
   - Jekyll theme by GitHub
 
-
+## FAQ
+1. **Why is Markdown better than a word processor?** Markdown is more flexxible then a word processor. If we need to design a static website, we can put already written Markdown file, where as for word processing we will need to convert it to Markdown or HTML file. Markdown is easy to use. it has 6 main font sizes. We can refer to some headings and make shortcuts inside the file. It does everything a developer needs.
+2.  **Why is my resume not showing up?** There might be several reasons to why resume is not showing up. To name a few: improper naming of a repository, improper naming of index.md, waiting time for a website to reload, and might be some problems with the \_config.yml.  
 
 ## Summary
 
