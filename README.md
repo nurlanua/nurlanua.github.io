@@ -7,7 +7,7 @@
 **Where can I acquire this product? If there are multiple distribution packages, which should I choose and why?**: You can start learning Markdown and Github online. You don't have to download any programs. Personally, I prefer Visual Studio Code (VS Code) or use [Markdown Live Preview](https://markdownlivepreview.com).
   
 ## Prerequisites
-
+  - Resume
   - [GitHub](#what-is-github)
   - [Markdown](#what-is-markdown)
   - [Jekyll](#what-is-jekyll)
@@ -102,7 +102,6 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
 
 ## Summary
 
-  - [Getting Started](#getting-started)
+  - [Instructions](#instructions)
   - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+  
