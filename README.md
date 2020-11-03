@@ -57,8 +57,8 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
 >          4. **Read**: Read through your document many times over. Show it to your friends and see if they can understand your README.md file.  
 >          5. **Pull requests**: Try getting insight from other users.   
 
-I am not going over the last point, because if you do, you will be sharing your private information with other people. Be careful with what you are sharing, because people might use it against you. As Andrew Etter says:
-      > In short, assholes ruin everything.
+I am not going over the last point, because if you do, you will be sharing your private information with other people. Be careful with what you are sharing, because people might use it against you. As Andrew Etter says:  
+> In short, assholes ruin everything.
       </br>
   - **index.md**   
   index.md is usually displayed on your static website. In this case, we are displaying our resume profile. We follow the same steps that we followed in README.md.   
