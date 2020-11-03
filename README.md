@@ -1,6 +1,8 @@
 # How to host an online Resume?
 
-This is a short guide on how to host an online resume. By hosting an online resume, Employers will know your knowledge and skill with using GitHub, Markdown, and Jekyll. This is a simple guide on how to get started to acquire these skills. In the future, with the acquired skills you can write documentations and design websites.
+**What is this product? Why would anyone want it?**: This is a short guide on how to host an online resume. By hosting an online resume, Employers will know your knowledge and skill with using GitHub, Markdown, and Jekyll. This is a simple guide on how to get started to acquire these skills.  
+**How does this product fit into a broader ecosystem, if at all? Does it have any dependencies?**: In the future, with the acquired skills you can write documentations and design websites. In terms of dependancies, Markdown and Jekyll depend on Github and HTML.  
+**Where can I acquire this product? If there are multiple distribution packages, which should I choose and why?**: You can start learning Markdown and Github online. You don't have to download any programs. Personally, I prefer Visual Studio Code (VS code) or use [Markdown Live Preview](https://markdownlivepreview.com).
 
 ## Summary
 
@@ -67,7 +69,7 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
       >
       </br>
   - **index.md**   
-  index.md is usually displayed on your static website. In this case, we are displaying our resume profile.
+  index.md is usually displayed on your static website. In this case, we are displaying our resume profile. 
   - **\_config.io**  
     \_config.io is used to set up a Jekyll theme of your static website. You can choose any theme from [Supported themes](https://pages.github.com/themes/).
 
@@ -75,11 +77,13 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
 
 Add additional notes about how to deploy this on a live system
 
+
 ## Built With
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+  - Markdown
+  - Jekyll
+  - GitHub
 
 ## Authors
+
+  - Azat Nurlan Uulu (nurlanua@myumanitoba.ca)
