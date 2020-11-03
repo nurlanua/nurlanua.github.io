@@ -97,8 +97,8 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
   - Jekyll theme by GitHub
 
 ## FAQ
-1. **Why is Markdown better than a word processor?** Markdown is more flexxible then a word processor. If we need to design a static website, we can put already written Markdown file, where as for word processing we will need to convert it to Markdown or HTML file. Markdown is easy to use. it has 6 main font sizes. We can refer to some headings and make shortcuts inside the file. It does everything a developer needs.
-2.  **Why is my resume not showing up?** There might be several reasons to why resume is not showing up. To name a few: improper naming of a repository, improper naming of index.md, waiting time for a website to reload, and might be some problems with the \_config.yml.  
+1. **Why is Markdown better than a word processor?** Markdown is more flexible than a word processor. If we need to design a static website, we can put an already written Markdown file, whereas for word processing we will need to convert it to Markdown or HTML file. Markdown is easy to use. it has 6 main font sizes. We can refer to some headings and make shortcuts inside the file. It does everything a developer needs.
+2.  **Why is my resume not showing up?** There might be several reasons why the resume is not showing up. To name a few: improper naming of a repository, improper naming of an index.md, reloading time for a website to update, and might be some problems with the \_config.yml.  
 
 ## Summary
 
