@@ -47,14 +47,14 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
       README.md is usually used to explain what other files do, how they are used, and why do we need them. In this case, we can write a cover letter, explain what our skills are in more details, show some projects that we have made, and many more that are relevant to the position you are applying for.  
       </br>
       I want to teach you Andrew Etter's principles on technical writing.  
-         1. **Research**: Research about what you need to write about. Look at other's examples of cover letters.  
+> 1. **Research**: Research about what you need to write about. Look at other's examples of cover letters.  
 > Surf the internet. Write down key points that you want to include.    
->         2. **Write**: Start with writing everything down for a draft. Read everything through and think "Does Employer need to know this information?",
+> 2. **Write**: Start with writing everything down for a draft. Read everything through and think "Does Employer need to know this information?",
 >"How would that information help you get the job?", "Is it too wordy?".  
->         3. **Design**: Use tools to make your reading easy to follow. Use some .gif to make your instructions more clear. Provide some visuals  
+> 3. **Design**: Use tools to make your reading easy to follow. Use some .gif to make your instructions more clear. Provide some visuals  
 > to lessen the number of words.   
->          4. **Read**: Read through your document many times over. Show it to your friends and see if they can understand your README.md file.  
->          5. **Pull requests**: Try getting insight from other users.   
+> 4. **Read**: Read through your document many times over. Show it to your friends and see if they can understand your README.md file.  
+> 5. **Pull requests**: Try getting insight from other users.   
 
 I am not going over the last point, because if you do, you will be sharing your private information with other people. Be careful with what you are sharing, because people might use it against you. As Andrew Etter says:  
 > In short, assholes ruin everything.
