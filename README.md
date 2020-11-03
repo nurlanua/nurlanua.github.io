@@ -65,7 +65,9 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
   - **index.md**   
   index.md is usually displayed on your static website. In this case, we are displaying our resume profile. 
   - **\_config.io**  
-    \_config.io is used to set up a Jekyll theme of your static website. You can choose any theme from [Supported themes](https://pages.github.com/themes/).
+    \_config.io is used to set up a Jekyll theme of your static website. You can choose any theme from [Supported themes](https://pages.github.com/themes/).  
+    
+    [demonstration](img/show.gif)
 
   #### More resources
  - [Markdown tutorial](https://www.markdowntutorial.com)
