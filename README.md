@@ -1,16 +1,10 @@
 # How to host an online Resume?
 
+## Purpose
+
 **What is this product? Why would anyone want it?**: This is a short guide on how to host an online resume. By hosting an online resume, Employers will know your knowledge and skill with using GitHub, Markdown, and Jekyll. This is a simple guide on how to get started to acquire these skills.  
 **How does this product fit into a broader ecosystem, if at all? Does it have any dependencies?**: In the future, with the acquired skills you can write documentations and design websites. In terms of dependancies, Markdown and Jekyll depend on Github and HTML.  
 **Where can I acquire this product? If there are multiple distribution packages, which should I choose and why?**: You can start learning Markdown and Github online. You don't have to download any programs. Personally, I prefer Visual Studio Code (VS code) or use [Markdown Live Preview](https://markdownlivepreview.com).
-
-## Summary
-
-  - [Getting Started](#getting-started)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
-  
   
 ## Prerequisites
 
@@ -40,7 +34,7 @@ Jekyll is a generator that allows you to style your website.
 You can think of it as a CSS.  
 You do not have to know Jekyll for this type of example. You just need to know what type of Jekyll themes are supported by GitHub. More on this later.
 
-## Getting Started
+## Instructions
 
 These instructions will let you host your resume on GitHub using Jekyll and Markdown.
   #### 1. Create an account on [GitHub](https://github.com)     
@@ -87,3 +81,16 @@ Add additional notes about how to deploy this on a live system
 ## Authors
 
   - Azat Nurlan Uulu (nurlanua@myumanitoba.ca)
+
+## More resources
+ - [Markdown tutorial](https://www.markdowntutorial.com)
+ - [GitHub's Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
+ - [Modern Technical Writing: An Introduction to Software Documentation by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=3U5MQMA2GZJD&dchild=1&keywords=modern+technical+writing+by+andrew+etter&qid=1604367457&sprefix=Andrew+etter%2Caps%2C202&sr=8-1)
+ - [Supported themes](https://pages.github.com/themes/)
+
+## Summary
+
+  - [Getting Started](#getting-started)
+  - [Authors](#authors)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
