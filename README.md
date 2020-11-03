@@ -63,9 +63,15 @@ These instructions will let you host your resume on GitHub using Jekyll and Mark
       >
       </br>
   - **index.md**   
-  index.md is usually displayed on your static website. In this case, we are displaying our resume profile. 
+  index.md is usually displayed on your static website. In this case, we are displaying our resume profile. We follow the same steps that we followed in README.md.   
+  1 Research about job. Find out job descriptions. Look for resume applicatons for the same type of job.  
+  2 Start writing. Write all relevent skills the job posting is looking for.  
+  3 Design. Put your skills first, your experience second, and education third.
+  4 Get some advice. Show it to your friends, relatives, or coworkes. Run it through Gramarly or other syntax checking machines.  
+  
   - **\_config.io**  
     \_config.io is used to set up a Jekyll theme of your static website. You can choose any theme from [Supported themes](https://pages.github.com/themes/).  
+    To use any of the themes, you can read their README.md files. You can usually make it work with a single line in \_config.yml file. 
     
     ![demonstration](img/show.gif)
 
