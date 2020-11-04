@@ -101,5 +101,5 @@ I am not going over the last point, because if you do, you will be sharing your 
   - [Purpose](#purpose)
   - [Prerequisites](#prerequisites)
   - [Instructions](#instructions)
-  - [Authors and Acknowledgements](#authors-and-acknowledgements)
+  - [Authors and Acknowledgements](#authors-and-acknowledgments)
   
