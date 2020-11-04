@@ -98,7 +98,8 @@ I am not going over the last point, because if you do, you will be sharing your 
 2.  **Why is my resume not showing up?** There might be several reasons why the resume is not showing up. To name a few: improper naming of a repository, improper naming of an index.md, reloading time for a website to update, and might be some problems with the \_config.yml.  
 
 ## Summary
-
+  - [Purpose](#purpose)
+  - [Prerequisites](#prerequisites)
   - [Instructions](#instructions)
-  - [Authors](#authors)
+  - [Authors and Acknowledgements](#authors_and_acknowledgements)
   
