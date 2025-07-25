@@ -1,52 +1,34 @@
-# AZAT NURLAN UULU
-| E-mail: nurlanua@myumanitoba.ca
+## AZAT NURLAN UULU  
+### e-mail: nurlanua@myumanitoba.ca  |  Github: github.com/nurlanua        
+Computer Science graduate with a strong interest in solving real-world problems through full-stack  
+development. Experienced with React, .NET, and MySQL, and excited to build reliable, user-focused  
+software.  
+### Technical Skills: 
+Languages: JavaScript, TypeScript, Python, C#, SQL   
+Frameworks/Tools: React, Vite, .NET, Git, GitHub Pages   
+Databases: MySQL   
+Other: REST APIs, Deployment, Linux CLI, Agile Workflow   
+### Experience: Projects 
+#### Luck Game — React Web App                                
+Role: Frontend Developer | GitHub | Live Demo  
+- Designed and built an interactive color-matching grid game using React and TypeScript
+- Deployed app using GitHub Pages with Vite bundler and GitHub Actions  
+- Focused on UI responsiveness and clean state management  
+#### Luck Game — Python Version                                                                     
+Role: Developer | GitHub  
+- Recreated the Luck Game logic using Python with a simple command-line interface  
+- Emphasized game logic, user input validation, and replayability  
+#### Sail Mapper — Backend & Database (In Progress)                                 
+Role: Backend Developer 
+- Developed RESTful APIs in C# with .NET to support real-time race tracking and event data  
+- Designed and managed MySQL database schemas for boats, races, and regattas  
+- Worked in a team of 5; integrated backend with frontend via documented endpoints  
+### Education: 
+Bachelor of Science in Computer Science - June 2025     
+Minor in Statistics  
+University of Manitoba, Winnipeg, MB  
+  
+High School Diploma - June 2017            
+Grant Park High School, Winnipeg, MB  
 
-## Skills
-* Excellent customer service skills , displayed in a retail department store and fine dining restaurant.
-* Fluent in English, Russian, and Kyrgyz.
-* Confidently engage with customers from different cultural backgrounds.
-* A strong work ethic , demonstrated through my night shift employment with newspaper delivery. 
-* Initiative with tasks in my retail sales position. 
-* Hard working and professional as a landscape technician.
 
-## Experience
-### Gas Bar Attendant     
-**Shell / Safeway Gas Bar, Winnipeg  
-September 2018 - Present**  
-* Process sales transactions, using Shell and Safeway point of sale systems.
-* Experience with cash handling, debit/credit card machine, refunds, and gift cards.
-* Maintain merchandise, such as keeping products up to date and restocking when needed.
-* Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
-
-### Landscape Technician    
-**Alladins Landscape Design, Winnipeg  
-June 2017 - August 2018**   
-* Responsible to inspect all equipment, vehicles and trailers for any malfunctions.
-* Knowledge of operating lawn mowers, string trimmers and various hand tools.
-* Strength and Endurance developed through working 8-10 hours per day.
-* Drive a truck with a trailer inside city.
-
-
-### Retail Sales Associate/ Cashier   
-**Winners, Winnipeg  
-April – October 2016**  
-* Process retail sales transactions, using Winner’s point of sale system.
-* Experience with cash handling, debit/credit card machine, refunds, and gift cards.
-* Interact with customers and answer customer inquiries, with a friendly and helpful attitude.
-* Maintain the store inventory, such as keeping shelf displays tidy and clothing items organized.
-* Team player, such as assisting fitting room staff, and picking up extra shifts when needed.
-
-## Education
-
-### University of Manitoba
-Computer Science   
-September 2017 – Present  
-Winnipeg, Manitoba
-
-### Grant Park High School
-High School Diploma - June 2017  
-Winnipeg, Manitoba
-
-### Bishkek Kyrgyz-Turk Lyceum
-High School Diploma - June 2015  
-Bishkek, Kyrgyzstan
